@@ -6,7 +6,7 @@ Features:
 - Scrapes technical analysis summary data from Trading view and uses this to place bets.
 - Current setup for BNB and BTC prediction (can easily be modified to work with Eth predictions).
 - Automates collection of wins and refunds when balance becomes low (for the lowest possilbe claim fees).
-- Outputs wallet balance to telegram.
+- Outputs wallet balance to personal telegram.
 - ~66% win rate under certain market conditions.
 <br /><br />
 
